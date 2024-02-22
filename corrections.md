@@ -1,25 +1,5 @@
 # Parte 1
 
-### Correcciones Realizadas
-
-Se ajustó la representación de tablas multinivel para clarificar el uso de `agg()` en Pandas y los diccionarios en Python, esenciales para el procesamiento de datos.
-
-### Comparación de Tiempo de Lectura
-
-El texto original en inglés requería aproximadamente 1.2 minutos de lectura (300 palabras), mientras que la versión corregida en español aumentó a 1.6 minutos (400 palabras), reflejando adiciones para una mayor claridad.
-
-### Importancia de las Correcciones
-
-Estas mejoras facilitan la comprensión de `agg()` y los diccionarios, fundamentales para manipular DataFrames en Pandas, asegurando que conceptos complejos sean accesibles.
-
-### Sugerencias
-
-He mantenido la traducción lo más fiel al contenido. Sin embargo, me gustaría suegerir que el tema de diccionarios es fundamental y será necesario pretensarse de manera más detallada y por separado de un método secundario como lo es agg()
-
-</details>
-
----
-
 ### Uso del método agg() y diccionarios
 
 Para utilizar el método `agg()`, necesitamos pasar un argumento que indique qué funciones aplicar a la columna 'purchase'. Para ello, escribimos el nombre de la columna y los nombres de las funciones como un diccionario.
